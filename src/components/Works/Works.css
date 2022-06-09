@@ -7,6 +7,10 @@
   /* scroll */
   align-items: center;
 }
+
+.logo-size{
+  width: 150px;
+}
 /* left side */
 .awesome {
   display: flex;
