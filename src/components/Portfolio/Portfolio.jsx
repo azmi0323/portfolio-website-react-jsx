@@ -25,6 +25,8 @@ const Portfolio = () => {
       >
         <SwiperSlide>
           <img src={Sidebar} alt="" />
+          <button>Explore More</button>
+          <button>Live Site</button>
         </SwiperSlide>
         <SwiperSlide>
           <img src={Ecommerce} alt="" />
