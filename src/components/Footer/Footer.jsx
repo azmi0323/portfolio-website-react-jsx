@@ -14,7 +14,7 @@ const Footer = () => {
         <div className="f-icons">
           <a href=""><Insta color="white" size={"3rem"} /></a>
           <a href="facebook.com/azmisatt" target='_blank'><Facebook color="white" size={"3rem"} /></a>
-          <a href="https://github.com/azmi0323"><Github color="white" size={"3rem"} /></a>
+          <a href="https://github.com/azmi0323" target='_blank'><Github color="white" size={"3rem"} /></a>
         </div>
       </div>
     </div>
